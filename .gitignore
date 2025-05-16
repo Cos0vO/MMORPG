@@ -1,1 +1,14 @@
+# macOS系统自动生成的文件
 .DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS Finder缩略图缓存
+._*
+
+# Spotlight索引和回收站
+.Spotlight-V100
+.Trashes
+
+# 图标文件（U盘插入时常见）
+Icon?
